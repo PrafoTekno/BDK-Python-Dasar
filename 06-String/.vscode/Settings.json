@@ -1,7 +1,7 @@
 
 {
 
-    "window.zoomLevel" : 1,
+    "window.zoomLevel" : 0.5,
     "editor.fontSize" : 22,
     "terminal.integrated.fontSize" : 18,
     "workbench.colorTheme" : "Noctis Minimus",
